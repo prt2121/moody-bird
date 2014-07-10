@@ -1,8 +1,7 @@
 moody-bird
 ==========
 
-## Flappy Bird clone for Google Glass.
-
+### Flappy Bird clone for Google Glass.
 This is a result of I fooled around with [GDK](https://developers.google.com/glass/develop/gdk/), [Scala](http://www.scala-lang.org/) and [LibGDX library](http://libgdx.badlogicgames.com/).
 
 ### More Info:
