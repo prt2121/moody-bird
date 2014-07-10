@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: org.robovm:robovm-cacerts-full:0.0.9">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.robovm/robovm-cacerts-full/jars/robovm-cacerts-full-0.0.9.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.robovm/robovm-cacerts-full/docs/robovm-cacerts-full-0.0.9-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.robovm/robovm-cacerts-full/srcs/robovm-cacerts-full-0.0.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
