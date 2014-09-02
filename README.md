@@ -10,6 +10,9 @@ This app is a result of I fooled around with [GDK](https://developers.google.com
 ### Glassware Description
 Moody Bird is a side-scrolling game featuring 2D retro style graphics. The objective is to direct a flying bird between each oncoming set of pipes without colliding with them. The user has to jump/squat/stand up to make the bird fly and he/she can also get extra scores by tapping the touchpad to drop bird's poop to kill a boar.
 
+### [Get it on GLASS](https://glass.google.com/glassware/10682717974634767504)
+[MyGlass](https://glass.google.com/glassware/10682717974634767504)
+
 ### Old Version
 A JAVA version for Android phones can be found on [Google Play](https://play.google.com/store/apps/details?id=com.pt2121.thebird).
 
