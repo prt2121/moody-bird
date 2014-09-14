@@ -8,3 +8,6 @@ art/
 res/
 assets/
 resources/
+
+.DS_Store
+images/.DS_Store
