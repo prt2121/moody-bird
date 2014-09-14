@@ -23,5 +23,7 @@ A JAVA version for Android phones can be found on [Google Play](https://play.goo
 
 ![moody-bird-screnshot-03](https://raw.githubusercontent.com/prt2121/moody-bird/gh-pages/images/screen-03.png)
 
+![moody-bird-screnshot-03](https://raw.githubusercontent.com/prt2121/moody-bird/gh-pages/images/screen-04.png)
+
 
 Glass is a trademark of Google Inc.
